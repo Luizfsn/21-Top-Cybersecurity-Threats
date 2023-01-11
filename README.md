@@ -15,7 +15,7 @@ Os ataques de malware incluem:
 - impede o acesso aos dados da vitima e ameaça exclui-los ou publica-los, a menos que um resgate seja pago
 
 **Malware de limpeza**												
--pretende destruir dados ou sistemas, substituindo arquivos direcionados ou destruindo um sistema de arquivos inteiro. Os limpadores geralmente têm como objetivo enviar uma mensagem política ou ocultar atividades de hackers após a exfiltração de dados.
+- pretende destruir dados ou sistemas, substituindo arquivos direcionados ou destruindo um sistema de arquivos inteiro. Os limpadores geralmente têm como objetivo enviar uma mensagem política ou ocultar atividades de hackers após a exfiltração de dados.
 
 **Worms**														
 - esse malware foi projetado para explorar backdoors e vulnerabilidades para obter acesso não autorizado a sistemas operacionais. Após a instalação, o worm pode realizar vários ataques, incluindo Distributed Denial of Service (DDoS).
